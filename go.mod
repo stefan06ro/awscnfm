@@ -19,11 +19,11 @@ require (
 	github.com/prometheus/client_golang v1.7.1 // indirect
 	github.com/spf13/cobra v1.2.1
 	golang.org/x/net v0.0.0-20210916014120-12bc252f5db8
-	k8s.io/api v0.18.19
-	k8s.io/apimachinery v0.18.19
-	k8s.io/client-go v0.18.19
-	sigs.k8s.io/cluster-api v0.4.1
-	sigs.k8s.io/controller-runtime v0.6.4
+	k8s.io/api v0.20.11
+	k8s.io/apimachinery v0.20.11
+	k8s.io/client-go v0.20.11
+	sigs.k8s.io/cluster-api v0.4.4
+	sigs.k8s.io/controller-runtime v0.6.5
 )
 
 replace (
