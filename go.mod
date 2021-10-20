@@ -3,8 +3,8 @@ module github.com/giantswarm/awscnfm/v15
 go 1.15
 
 require (
-	github.com/blang/semver v3.5.1+incompatible
-	github.com/fatih/color v1.12.0
+	github.com/blang/semver v3.8.0+incompatible
+	github.com/fatih/color v1.13.0
 	github.com/giantswarm/apiextensions/v3 v3.34.0
 	github.com/giantswarm/backoff v0.2.0
 	github.com/giantswarm/certs/v3 v3.1.1
@@ -18,7 +18,7 @@ require (
 	github.com/jsonmaur/aws-regions/v2 v2.2.1
 	github.com/prometheus/client_golang v1.7.1 // indirect
 	github.com/spf13/cobra v1.2.1
-	golang.org/x/net v0.0.0-20210916014120-12bc252f5db8
+	golang.org/x/net v0.0.0-20211020060615-d418f374d309
 	k8s.io/api v0.18.19
 	k8s.io/apimachinery v0.18.19
 	k8s.io/client-go v0.18.19
